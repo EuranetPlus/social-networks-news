@@ -1,12 +1,12 @@
 {
   "heading": "Accessing news online across all EU countries",
-  "subheading": "General percentage of people that read articles or post that appear on their online social networks.",
+  "subheading": "General percentage of people that read articles or posts that appear on their online social networks.",
   "legend1": "No data available",
   "tooltip1": "of interviewees",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (European Parliament)",
   "textNoteDescription": "Note",
-  "textNote": "Government expenditure by COFOG (UNSD classification of functions of government, replicated in ESA2010) function and type.",
+  "textNote": "Eurobarometer is the polling instrument used by the European Commission, the European Parliament and other EU institutions and agencies to monitor regularly the state of public opinion in Europe on issues related to the European Union as well as attitudes on subjects of political or social nature.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }
