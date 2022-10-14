@@ -1,12 +1,12 @@
 {
   "heading": "Piekļuve ziņām tiešsaistē visās ES valstīs",
-  "subheading": "Vispārēja to cilvēku procentuālā daļa, kuri lasa rakstus vai ziņas, kas tiek rādītas viņu tiešsaistes sociālajos tīklos.",
+  "subheading": "To cilvēku vispārējā procentuālā daļa, kuri lasa rakstus vai ziņas, kas tiek rādītas viņu tiešsaistes sociālajos tīklos.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "no intervētajiem",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eirobarometrs (Eiropas Parlaments)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Valdības izdevumi pēc COFOG (UNSD valdības funkciju klasifikācija, replicēta EKS2010) funkcijas un veida.",
+  "textNote": "Eirobarometrs ir aptaujas instruments, ko izmanto Eiropas Komisija, Eiropas Parlaments un citas ES institūcijas un aģentūras, lai regulāri uzraudzītu sabiedriskās domas stāvokli Eiropā par jautājumiem, kas saistīti ar Eiropas Savienību, kā arī attieksmi pret politiskiem vai sociāliem jautājumiem.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

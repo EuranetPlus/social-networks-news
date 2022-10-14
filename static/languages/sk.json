@@ -4,9 +4,9 @@
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "opýtaných",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Európsky parlament)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládne výdavky podľa funkcie a typu COFOG (klasifikácia funkcií verejnej správy OSN, replikovaná v ESA2010).",
+  "textNote": "Eurobarometer je nástroj na prieskum verejnej mienky, ktorý používa Európska komisia, Európsky parlament a ďalšie inštitúcie a agentúry EÚ na pravidelné monitorovanie stavu verejnej mienky v Európe v otázkach súvisiacich s Európskou úniou, ako aj postojov k témam politického alebo sociálneho charakteru.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

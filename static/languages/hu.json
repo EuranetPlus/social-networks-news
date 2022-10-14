@@ -4,9 +4,9 @@
   "legend1": "Nincs elérhető adat",
   "tooltip1": "interjúalanyok közül",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarométer (Európai Parlament)",
   "textNoteDescription": "jegyzet",
-  "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
+  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutató eszköz, amellyel rendszeresen nyomon követi az európai közvélemény helyzetét az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű témákkal kapcsolatos attitűdöket.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

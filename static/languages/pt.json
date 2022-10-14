@@ -1,12 +1,12 @@
 {
   "heading": "Acessar notícias online em todos os países da UE",
-  "subheading": "Percentual geral de pessoas que lêem artigos ou postam que aparecem em suas redes sociais online.",
+  "subheading": "Percentual geral de pessoas que lêem artigos ou postagens que aparecem em suas redes sociais online.",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "de entrevistados",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarômetro (Parlamento Europeu)",
   "textNoteDescription": "Observação",
-  "textNote": "Despesas governamentais por COFOG (classificação UNSD das funções do governo, replicada no SEC2010) função e tipo.",
+  "textNote": "O Eurobarómetro é o instrumento de sondagem utilizado pela Comissão Europeia, Parlamento Europeu e outras instituições e agências da UE para monitorizar regularmente o estado da opinião pública na Europa sobre questões relacionadas com a União Europeia, bem como as atitudes sobre assuntos de natureza política ou social.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

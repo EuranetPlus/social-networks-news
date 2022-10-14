@@ -1,12 +1,12 @@
 {
   "heading": "Accesarea știrilor online din toate țările UE",
-  "subheading": "Procentul general de persoane care citesc articole sau postări care apar pe rețelele lor de socializare online.",
+  "subheading": "Procentul general de persoane care citesc articole sau postări care apar pe rețelele lor sociale online.",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "a intervievaţilor",
   "textSourceDescription": "Sursă",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometru (Parlamentul European)",
   "textNoteDescription": "Notă",
-  "textNote": "Cheltuielile guvernamentale după funcția și tipul COFOG (clasificarea UNSD a funcțiilor guvernamentale, replicată în ESA2010).",
+  "textNote": "Eurobarometrul este instrumentul de sondaj utilizat de Comisia Europeană, Parlamentul European și alte instituții și agenții ale UE pentru a monitoriza în mod regulat starea opiniei publice din Europa cu privire la problemele legate de Uniunea Europeană, precum și atitudinile față de subiecte de natură politică sau socială.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

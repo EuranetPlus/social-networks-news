@@ -4,9 +4,9 @@
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "haastateltavista",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometri (Euroopan parlamentti)",
   "textNoteDescription": "Merkintä",
-  "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
+  "textNote": "Eurobarometri on Euroopan komission, Euroopan parlamentin ja muiden EU:n toimielinten ja virastojen käyttämä kyselyväline seuratakseen säännöllisesti Euroopan yleistä mielipidettä Euroopan unioniin liittyvissä kysymyksissä sekä asenteita poliittisista tai sosiaalisista aiheista.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=fi"
 }

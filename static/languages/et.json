@@ -4,9 +4,9 @@
   "legend1": "Andmed puuduvad",
   "tooltip1": "intervjueeritavatest",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurobaromeeter (Euroopa Parlament)",
   "textNoteDescription": "Märge",
-  "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010) funktsiooni ja tüübi järgi.",
+  "textNote": "Eurobaromeeter on küsitlusvahend, mida kasutavad Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja agentuurid, et jälgida korrapäraselt Euroopa avaliku arvamuse seisu Euroopa Liiduga seotud küsimustes ning suhtumist poliitilistes või sotsiaalsetes küsimustes.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

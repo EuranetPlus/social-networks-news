@@ -1,12 +1,12 @@
 {
   "heading": "Online toegang tot nieuws in alle EU-landen",
-  "subheading": "Algemeen percentage mensen dat artikelen leest of plaatst die op hun online sociale netwerken verschijnen.",
+  "subheading": "Algemeen percentage mensen dat artikelen of berichten leest die op hun online sociale netwerken verschijnen.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van geïnterviewden",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Europees Parlement)",
   "textNoteDescription": "Opmerking",
-  "textNote": "Overheidsuitgaven volgens COFOG (UNSD-classificatie van overheidsfuncties, gerepliceerd in ESR2010) functie en type.",
+  "textNote": "Eurobarometer is het peilingsinstrument dat door de Europese Commissie, het Europees Parlement en andere EU-instellingen en -agentschappen wordt gebruikt om regelmatig de stand van de publieke opinie in Europa te volgen over kwesties die verband houden met de Europese Unie, evenals de houding ten aanzien van onderwerpen van politieke of sociale aard.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

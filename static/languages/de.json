@@ -4,9 +4,9 @@
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Befragten",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Europäisches Parlament)",
   "textNoteDescription": "Notiz",
-  "textNote": "Staatsausgaben nach Funktion und Art der COFOG (UNSD-Klassifikation der Staatsfunktionen, repliziert im ESVG 2010).",
+  "textNote": "Eurobarometer ist das Umfrageinstrument, das von der Europäischen Kommission, dem Europäischen Parlament und anderen EU-Institutionen und -Agenturen verwendet wird, um regelmäßig den Stand der öffentlichen Meinung in Europa zu Themen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder sozialer Art zu überwachen.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

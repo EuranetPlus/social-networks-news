@@ -1,12 +1,12 @@
 {
   "heading": "Aċċess għall-aħbarijiet onlajn fil-pajjiżi kollha tal-UE",
-  "subheading": "Perċentwal ġenerali ta’ nies li jaqraw artikli jew messaġġi li jidhru fuq in-netwerks soċjali online tagħhom.",
+  "subheading": "Perċentwal ġenerali ta’ nies li jaqraw artikli jew posts li jidhru fuq in-netwerks soċjali online tagħhom.",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "tal-intervistati",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "Ewrobarometru (Parlament Ewropew)",
   "textNoteDescription": "Nota",
-  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textNote": "L-Ewrobarometru huwa l-istrument tal-votazzjoni użat mill-Kummissjoni Ewropea, il-Parlament Ewropew u istituzzjonijiet u aġenziji oħra tal-UE biex jimmonitorjaw regolarment l-istat tal-opinjoni pubblika fl-Ewropa dwar kwistjonijiet relatati mal-Unjoni Ewropea kif ukoll attitudnijiet dwar suġġetti ta’ natura politika jew soċjali.",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

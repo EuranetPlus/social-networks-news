@@ -1,12 +1,12 @@
 {
   "heading": "Pristup vijestima online u svim zemljama EU",
-  "subheading": "Opći postotak ljudi koji čitaju članke ili objave koji se pojavljuju na njihovim online društvenim mrežama.",
+  "subheading": "Opći postotak ljudi koji čitaju članke ili postove koji se pojavljuju na njihovim online društvenim mrežama.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "ispitanika",
   "textSourceDescription": "Izvor",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometar (Europski parlament)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Državni rashodi prema funkciji i vrsti COFOG-a (UNSD klasifikacija funkcija vlade, preslikana u ESA2010).",
+  "textNote": "Eurobarometar je anketni instrument kojim Europska komisija, Europski parlament i druge institucije i agencije EU redovito prate stanje javnog mnijenja u Europi o pitanjima vezanim uz Europsku uniju kao i stavove o temama političke ili društvene prirode.",
   "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": ""
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }
