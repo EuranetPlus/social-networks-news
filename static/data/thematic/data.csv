@@ -1,42 +1,42 @@
-country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
-Albania,AL,1,TRUE,Candidate country since 2003,,,,,,,,
-Austria,AT,0,FALSE,,,,,,,,,
-Belgium,BE,0,FALSE,,,,,,,,,
-Bulgaria,BG,0,FALSE,,,,,,,,,
-Bosnia and Herzegovina,BA,1,FALSE,,,,,,,,,
-Switzerland,CH,0,FALSE,,,,,,,,,
-Cyprus,CY,0,FALSE,,,,,,,,,
-Czechia,CZ,0,FALSE,,,,,,,,,
-Germany,DE,0,FALSE,,,,,,,,,
-Denmark,DK,0,FALSE,,,,,,,,,
-Estonia,EE,0,FALSE,,,,,,,,,
-Georgia,GE,1,FALSE,,,,,,,,,
-Greece,EL,0,FALSE,,,,,,,,,
-Spain,ES,0,FALSE,,,,,,,,,
-Finland,FI,0,FALSE,,,,,,,,,
-France,FR,0,FALSE,,,,,,,,,
-Croatia,HR,0,FALSE,,,,,,,,,
-Hungary,HU,0,FALSE,,,,,,,,,
-Ireland,IE,0,FALSE,,,,,,,,,
-Iceland,IS,0,FALSE,,,,,,,,,
-Italy,IT,0,FALSE,,,,,,,,,
-Liechtenstein,LI,0,FALSE,,,,,,,,,
-Lithuania,LT,0,FALSE,,,,,,,,,
-Luxembourg,LU,0,FALSE,,,,,,,,,
-Latvia,LV,0,FALSE,,,,,,,,,
-Montenegro,ME,1,TRUE,Candidate country since 2010,,,,,,,,
-North Macedonia,MK,1,TRUE,Candidate country since 2005,,,,,,,,
-Malta,MT,0,FALSE,,,,,,,,,
-Moldova,MD,1,FALSE,,,,,,,,,
-Netherlands,NL,0,FALSE,,,,,,,,,
-Norway,NO,0,FALSE,,,,,,,,,
-Poland,PL,0,FALSE,,,,,,,,,
-Portugal,PT,0,FALSE,,,,,,,,,
-Romania,RO,0,FALSE,,,,,,,,,
-Serbia,RS,1,TRUE,Candidate country since 2003,,,,,,,,
-Sweden,SE,0,FALSE,,,,,,,,,
-Slovenia,SI,0,FALSE,,,,,,,,,
-Slovakia,SK,0,FALSE,,,,,,,,,
-Republic of Turkey,TR,1,FALSE,,,,,,,,,
-United Kingdom,UK,0,FALSE,,,,,,,,,
-Ukraine,UA,1,TRUE,Candidate country since 2003,,,,,,,,
+country,id,value,extraInfo
+Albania,AL,null,FALSE
+Austria,AT,0.26,FALSE
+Belgium,BE,0.26,FALSE
+Bulgaria,BG,0.55,FALSE
+Bosnia and Herzegovina,BA,null,FALSE
+Switzerland,CH,null,FALSE
+Cyprus,CY,0.55,FALSE
+Czechia,CZ,0.33,FALSE
+Germany,DE,0.21,FALSE
+Denmark,DK,0.26,FALSE
+Estonia,EE,0.27,FALSE
+Georgia,GE,null,FALSE
+Greece,EL,0.50,FALSE
+Spain,ES,0.29,FALSE
+Finland,FI,0.22,FALSE
+France,FR,0.25,FALSE
+Croatia,HR,0.45,FALSE
+Hungary,HU,0.51,FALSE
+Ireland,IE,0.45,FALSE
+Iceland,IS,null,FALSE
+Italy,IT,0.32,FALSE
+Liechtenstein,LI,null,FALSE
+Lithuania,LT,0.48,FALSE
+Luxembourg,LU,0.32,FALSE
+Latvia,LV,0.36,FALSE
+Montenegro,ME,null,FALSE
+North Macedonia,MK,null,FALSE
+Malta,MT,0.56,FALSE
+Moldova,MD,null,FALSE
+Netherlands,NL,0.22,FALSE
+Norway,NO,null,FALSE
+Poland,PL,0.38,FALSE
+Portugal,PT,0.43,FALSE
+Romania,RO,0.42,FALSE
+Serbia,RS,null,FALSE
+Sweden,SE,0.20,FALSE
+Slovenia,SI,0.45,FALSE
+Slovakia,SK,0.20,FALSE
+Turkey,TR,null,FALSE
+United Kingdom,UK,null,FALSE
+Ukraine,UA,null,FALSE
