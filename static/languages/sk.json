@@ -1,12 +1,12 @@
 {
-  "heading": "Prístup k novinkám online vo všetkých krajinách EÚ",
-  "subheading": "Všeobecné percento ľudí, ktorí čítajú články alebo príspevky, ktoré sa objavujú na ich online sociálnych sieťach.",
+  "heading": "Prístup k online správam vo všetkých krajinách EÚ",
+  "subheading": "Všeobecné percento ľudí, ktorí čítajú články alebo príspevky, ktoré sa zobrazujú na ich sociálnych sieťach online.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "opýtaných",
+  "tooltip1": "respondentov",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurobarometer (Európsky parlament)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurobarometer je nástroj na prieskum verejnej mienky, ktorý používa Európska komisia, Európsky parlament a ďalšie inštitúcie a agentúry EÚ na pravidelné monitorovanie stavu verejnej mienky v Európe v otázkach súvisiacich s Európskou úniou, ako aj postojov k témam politického alebo sociálneho charakteru.",
+  "textNote": "Eurobarometer je nástroj prieskumu verejnej mienky, ktorý používa Európska komisia, Európsky parlament a ďalšie inštitúcie a agentúry EÚ na pravidelné monitorovanie stavu verejnej mienky v Európe o otázkach týkajúcich sa Európskej únie, ako aj postojov k témam politickej alebo sociálnej povahy.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Piekļuve ziņām tiešsaistē visās ES valstīs",
-  "subheading": "To cilvēku vispārējā procentuālā daļa, kuri lasa rakstus vai ziņas, kas tiek rādītas viņu tiešsaistes sociālajos tīklos.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "no intervētajiem",
+  "subheading": "To cilvēku vispārējais procentuālais daudzums, kuri lasa rakstus vai ierakstus, kas parādās viņu tiešsaistes sociālajos tīklos.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "intervēto",
   "textSourceDescription": "Avots",
   "textSource": "Eirobarometrs (Eiropas Parlaments)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eirobarometrs ir aptaujas instruments, ko izmanto Eiropas Komisija, Eiropas Parlaments un citas ES institūcijas un aģentūras, lai regulāri uzraudzītu sabiedriskās domas stāvokli Eiropā par jautājumiem, kas saistīti ar Eiropas Savienību, kā arī attieksmi pret politiskiem vai sociāliem jautājumiem.",
+  "textNote": "Eirobarometrs ir aptauju instruments, ko Eiropas Komisija, Eiropas Parlaments un citas ES iestādes un aģentūras izmanto, lai regulāri uzraudzītu sabiedriskās domas stāvokli Eiropā jautājumos, kas saistīti ar Eiropas Savienību, kā arī attieksmi pret politiskiem vai sociāliem jautājumiem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Online-Zugriff auf Nachrichten in allen EU-Ländern",
-  "subheading": "Allgemeiner Prozentsatz der Personen, die Artikel oder Posts lesen, die in ihren sozialen Online-Netzwerken erscheinen.",
+  "heading": "Online-Zugriff auf Nachrichten aus allen EU-Ländern",
+  "subheading": "Gesamtprozentsatz der Personen, die Artikel oder Beiträge lesen, die in ihren sozialen Online-Netzwerken erscheinen.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Befragten",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer (Europäisches Parlament)",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurobarometer ist das Umfrageinstrument, das von der Europäischen Kommission, dem Europäischen Parlament und anderen EU-Institutionen und -Agenturen verwendet wird, um regelmäßig den Stand der öffentlichen Meinung in Europa zu Themen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder sozialer Art zu überwachen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Eurobarometer ist das Umfrageinstrument der Europäischen Kommission, des Europäischen Parlaments und anderer EU-Institutionen und -Agenturen, mit dem regelmäßig die öffentliche Meinung in Europa zu Fragen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder sozialer Natur beobachtet werden.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

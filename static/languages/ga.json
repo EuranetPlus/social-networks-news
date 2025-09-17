@@ -1,12 +1,12 @@
 {
-  "heading": "Teacht ar nuacht ar líne i ngach tír san AE",
-  "subheading": "Céatadán ginearálta na ndaoine a léann ailt nó postálacha atá le feiceáil ar a líonraí sóisialta ar líne.",
+  "heading": "Rochtain ar nuacht ar líne i ngach tír san AE",
+  "subheading": "Céatadán ginearálta na ndaoine a léann ailt nó poist a thaispeántar ar a líonraí sóisialta ar líne.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de agallaithe",
+  "tooltip1": "de na daoine a ndearnadh agallamh leo",
   "textSourceDescription": "Foinse",
-  "textSource": "Eorabharaiméadair (Parlaimint na hEorpa)",
+  "textSource": "Eorabharaiméadar (Parlaimint na hEorpa)",
   "textNoteDescription": "Nóta",
-  "textNote": "Is é Eorabharaiméadair an ionstraim vótaíochta a úsáideann an Coimisiún Eorpach, Parlaimint na hEorpa agus institiúidí agus gníomhaireachtaí eile an AE chun faireachán rialta a dhéanamh ar staid thuairim an phobail san Eoraip ar shaincheisteanna a bhaineann leis an Aontas Eorpach chomh maith le dearcthaí ar ábhair de chineál polaitiúil nó sóisialta.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=ga"
+  "textNote": "Is é an tEorabharaiméadar an uirlis pobalbhreithe a úsáideann an Coimisiún Eorpach, Parlaimint na hEorpa agus institiúidí agus gníomhaireachtaí eile an AE chun faireachán rialta a dhéanamh ar staid thuairim an phobail san Eoraip maidir le saincheisteanna a bhaineann leis an Aontas Eorpach chomh maith le dearcthaí ar ábhair pholaitiúla nó shóisialta.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

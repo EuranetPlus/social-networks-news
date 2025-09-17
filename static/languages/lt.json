@@ -1,12 +1,12 @@
 {
-  "heading": "Prieiga prie naujienų internetu visose ES šalyse",
-  "subheading": "Bendras procentas žmonių, kurie skaito straipsnius ar įrašus, rodomus jų internetiniuose socialiniuose tinkluose.",
+  "heading": "Prieiga prie naujienų internete visose ES šalyse",
+  "subheading": "Bendras žmonių, kurie skaito straipsnius ar įrašus, rodomus jų internetiniuose socialiniuose tinkluose, procentas.",
   "legend1": "Nėra duomenų",
   "tooltip1": "apklaustųjų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurobarometras (Europos Parlamentas)",
+  "textSource": "„Eurobarometras“ (Europos Parlamentas)",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurobarometras yra Europos Komisijos, Europos Parlamento ir kitų ES institucijų bei agentūrų naudojama apklausų priemonė, skirta reguliariai stebėti visuomenės nuomonę Europoje su Europos Sąjunga susijusiais klausimais, taip pat požiūrį į politinio ar socialinio pobūdžio klausimus.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "„Eurobarometras“ – tai apklausų priemonė, kurią Europos Komisija, Europos Parlamentas ir kitos ES institucijos bei agentūros naudoja reguliariai stebėdamos visuomenės nuomonę Europoje su Europos Sąjunga susijusiais klausimais, taip pat požiūrį į politinio ar socialinio pobūdžio klausimus.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

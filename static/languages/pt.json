@@ -1,12 +1,12 @@
 {
-  "heading": "Acessar notícias online em todos os países da UE",
-  "subheading": "Percentual geral de pessoas que lêem artigos ou postagens que aparecem em suas redes sociais online.",
+  "heading": "Acesso a notícias online em todos os países da UE",
+  "subheading": "Porcentagem geral de pessoas que leem artigos ou postagens que aparecem em suas redes sociais online.",
   "legend1": "Nenhum dado disponível",
-  "tooltip1": "de entrevistados",
+  "tooltip1": "dos entrevistados",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurobarômetro (Parlamento Europeu)",
+  "textSource": "Eurobarómetro (Parlamento Europeu)",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurobarómetro é o instrumento de sondagem utilizado pela Comissão Europeia, Parlamento Europeu e outras instituições e agências da UE para monitorizar regularmente o estado da opinião pública na Europa sobre questões relacionadas com a União Europeia, bem como as atitudes sobre assuntos de natureza política ou social.",
+  "textNote": "O Eurobarômetro é o instrumento de pesquisa usado pela Comissão Europeia, pelo Parlamento Europeu e por outras instituições e agências da UE para monitorar regularmente o estado da opinião pública na Europa sobre questões relacionadas à União Europeia, bem como atitudes em relação a assuntos de natureza política ou social.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

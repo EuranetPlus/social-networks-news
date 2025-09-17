@@ -1,12 +1,12 @@
 {
-  "heading": "Juurdepääs uudistele veebis kõigis ELi riikides",
-  "subheading": "Üldine protsent inimestest, kes loevad artikleid või postitusi, mis ilmuvad nende suhtlusvõrgustikes.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Uudiste kättesaadavus veebis kõigis ELi riikides",
+  "subheading": "Nende inimeste üldine protsent, kes loevad oma veebipõhistes sotsiaalvõrgustikes ilmuvaid artikleid või postitusi.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "intervjueeritavatest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurobaromeeter (Euroopa Parlament)",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurobaromeeter on küsitlusvahend, mida kasutavad Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja agentuurid, et jälgida korrapäraselt Euroopa avaliku arvamuse seisu Euroopa Liiduga seotud küsimustes ning suhtumist poliitilistes või sotsiaalsetes küsimustes.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurobaromeeter on küsitlusvahend, mida Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja asutused kasutavad avaliku arvamuse regulaarseks jälgimiseks Euroopas Euroopa Liiduga seotud küsimustes ning hoiakute kohta poliitilistel või sotsiaalsetel teemadel.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

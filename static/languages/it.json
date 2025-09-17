@@ -6,7 +6,7 @@
   "textSourceDescription": "Fonte",
   "textSource": "Eurobarometro (Parlamento europeo)",
   "textNoteDescription": "Nota",
-  "textNote": "L'Eurobarometro è lo strumento elettorale utilizzato dalla Commissione Europea, dal Parlamento Europeo e da altre istituzioni e agenzie dell'UE per monitorare regolarmente lo stato dell'opinione pubblica in Europa su questioni relative all'Unione Europea, nonché atteggiamenti su temi di natura politica o sociale.",
+  "textNote": "L'Eurobarometro è lo strumento di sondaggio utilizzato dalla Commissione europea, dal Parlamento europeo e da altre istituzioni e agenzie dell'UE per monitorare regolarmente lo stato dell'opinione pubblica in Europa su questioni relative all'Unione europea, nonché gli atteggiamenti su argomenti di natura politica o sociale.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=it"
 }

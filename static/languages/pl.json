@@ -1,12 +1,12 @@
 {
   "heading": "Dostęp do wiadomości online we wszystkich krajach UE",
-  "subheading": "Ogólny odsetek osób czytających artykuły lub posty pojawiające się w ich sieciach społecznościowych online.",
+  "subheading": "Ogólny procent osób czytających artykuły lub posty pojawiające się w ich sieciach społecznościowych.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "rozmówców",
+  "tooltip1": "osób udzielających wywiadu",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr (Parlament Europejski)",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurobarometr jest instrumentem sondażowym wykorzystywanym przez Komisję Europejską, Parlament Europejski oraz inne instytucje i agencje UE do regularnego monitorowania stanu opinii publicznej w Europie w kwestiach związanych z Unią Europejską oraz postaw na tematy o charakterze politycznym lub społecznym.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Eurobarometr to narzędzie badawcze wykorzystywane przez Komisję Europejską, Parlament Europejski i inne instytucje oraz agencje UE do regularnego monitorowania stanu opinii publicznej w Europie w kwestiach związanych z Unią Europejską, a także postaw wobec kwestii politycznych lub społecznych.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

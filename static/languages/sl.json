@@ -1,12 +1,12 @@
 {
-  "heading": "Spletni dostop do novic v vseh državah EU",
-  "subheading": "Splošni odstotek ljudi, ki berejo članke ali objave na njihovih spletnih družbenih omrežjih.",
-  "legend1": "Ni podatkov",
-  "tooltip1": "intervjuvancev",
+  "heading": "Dostop do novic na spletu v vseh državah EU",
+  "subheading": "Splošni odstotek ljudi, ki berejo članke ali objave, ki se pojavljajo na njihovih spletnih družbenih omrežjih.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "anketirancev",
   "textSourceDescription": "Vir",
   "textSource": "Eurobarometer (Evropski parlament)",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurobarometer je javnomnenjski instrument, ki ga Evropska komisija, Evropski parlament in druge institucije in agencije EU uporabljajo za redno spremljanje stanja javnega mnenja v Evropi o vprašanjih, povezanih z Evropsko unijo, ter stališč do tem politične ali družbene narave.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Eurobarometer je instrument za javnomnenjsko raziskavo, ki ga Evropska komisija, Evropski parlament in druge institucije in agencije EU uporabljajo za redno spremljanje stanja javnega mnenja v Evropi o vprašanjih, povezanih z Evropsko unijo, ter stališč do tem politične ali družbene narave.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

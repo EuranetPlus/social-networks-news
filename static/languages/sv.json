@@ -1,12 +1,12 @@
 {
-  "heading": "Få tillgång till nyheter online i alla EU-länder",
+  "heading": "Tillgång till nyheter online i alla EU-länder",
   "subheading": "Generell andel personer som läser artiklar eller inlägg som visas på deras sociala nätverk online.",
-  "legend1": "Ingen data tillgänglig",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av intervjupersoner",
   "textSourceDescription": "Källa",
   "textSource": "Eurobarometer (Europaparlamentet)",
   "textNoteDescription": "Notera",
-  "textNote": "Eurobarometer är det undersökningsinstrument som används av EU-kommissionen, Europaparlamentet och andra EU-institutioner och byråer för att regelbundet övervaka den allmänna opinionens tillstånd i Europa i frågor relaterade till Europeiska unionen samt attityder i ämnen av politisk eller social karaktär.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Eurobarometer är det opinionsinstrument som används av Europeiska kommissionen, Europaparlamentet och andra EU-institutioner och -byråer för att regelbundet övervaka den allmänna opinionen i Europa i frågor som rör Europeiska unionen samt attityder i frågor av politisk eller social karaktär.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

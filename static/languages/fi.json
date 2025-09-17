@@ -1,12 +1,12 @@
 {
-  "heading": "Uutiset verkossa kaikissa EU-maissa",
-  "subheading": "Yleinen prosenttiosuus ihmisistä, jotka lukevat artikkeleita tai viestejä, jotka näkyvät heidän online-sosiaalisissa verkostoissaan.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Uutisten saatavuus verkossa kaikissa EU-maissa",
+  "subheading": "Yleinen prosenttiosuus ihmisistä, jotka lukevat artikkeleita tai julkaisuja heidän sosiaalisissa verkostoissaan.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "haastateltavista",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri (Euroopan parlamentti)",
-  "textNoteDescription": "Merkintä",
-  "textNote": "Eurobarometri on Euroopan komission, Euroopan parlamentin ja muiden EU:n toimielinten ja virastojen käyttämä kyselyväline seuratakseen säännöllisesti Euroopan yleistä mielipidettä Euroopan unioniin liittyvissä kysymyksissä sekä asenteita poliittisista tai sosiaalisista aiheista.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Eurobarometri on Euroopan komission, Euroopan parlamentin ja muiden EU:n toimielinten ja virastojen käyttämä kyselytutkimusväline, jolla seurataan säännöllisesti yleistä mielipidettä Euroopassa Euroopan unioniin liittyvissä kysymyksissä sekä asenteita poliittisissa tai sosiaalisissa aiheissa.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=fi"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

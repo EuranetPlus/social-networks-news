@@ -1,12 +1,12 @@
 {
-  "heading": "Hírek online elérése az EU összes országában",
-  "subheading": "Azon emberek általános százalékos aránya, akik olvasnak az online közösségi hálózataikon megjelenő cikkeket vagy bejegyzéseket.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "interjúalanyok közül",
+  "heading": "Online hírek elérése az összes EU-tagállamban",
+  "subheading": "Az online közösségi hálózataikon megjelenő cikkeket vagy bejegyzéseket olvasó emberek általános százalékos aránya.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "az interjúalanyok közül",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer (Európai Parlament)",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutató eszköz, amellyel rendszeresen nyomon követi az európai közvélemény helyzetét az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű témákkal kapcsolatos attitűdöket.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutatási eszköz, amely rendszeresen figyelemmel kíséri az európai közvélemény állapotát az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű kérdésekben való hozzáállást.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

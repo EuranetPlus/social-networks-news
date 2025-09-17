@@ -1,12 +1,12 @@
 {
-  "heading": "Accesarea știrilor online din toate țările UE",
-  "subheading": "Procentul general de persoane care citesc articole sau postări care apar pe rețelele lor sociale online.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a intervievaţilor",
+  "heading": "Accesarea știrilor online în toate țările UE",
+  "subheading": "Procentul general de persoane care citesc articole sau postări care apar pe rețelele lor de socializare online.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de persoane intervievate",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru (Parlamentul European)",
-  "textNoteDescription": "Notă",
-  "textNote": "Eurobarometrul este instrumentul de sondaj utilizat de Comisia Europeană, Parlamentul European și alte instituții și agenții ale UE pentru a monitoriza în mod regulat starea opiniei publice din Europa cu privire la problemele legate de Uniunea Europeană, precum și atitudinile față de subiecte de natură politică sau socială.",
+  "textNoteDescription": "Nota",
+  "textNote": "Eurobarometrul este instrumentul de sondare utilizat de Comisia Europeană, Parlamentul European și alte instituții și agenții ale UE pentru a monitoriza periodic starea opiniei publice din Europa cu privire la aspecte legate de Uniunea Europeană, precum și atitudinile față de subiecte de natură politică sau socială.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=ro"
 }

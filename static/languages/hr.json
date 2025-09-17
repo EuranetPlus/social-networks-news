@@ -1,12 +1,12 @@
 {
-  "heading": "Pristup vijestima online u svim zemljama EU",
-  "subheading": "Opći postotak ljudi koji čitaju članke ili postove koji se pojavljuju na njihovim online društvenim mrežama.",
+  "heading": "Pristup vijestima putem interneta u svim zemljama EU-a",
+  "subheading": "Opći postotak ljudi koji čitaju članke ili objave koje se pojavljuju na njihovim društvenim mrežama na internetu.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "ispitanika",
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar (Europski parlament)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurobarometar je anketni instrument kojim Europska komisija, Europski parlament i druge institucije i agencije EU redovito prate stanje javnog mnijenja u Europi o pitanjima vezanim uz Europsku uniju kao i stavove o temama političke ili društvene prirode.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Eurobarometar je instrument anketiranja koji koriste Europska komisija, Europski parlament i druge institucije i agencije EU-a kako bi redovito pratili stanje javnog mnijenja u Europi o pitanjima vezanim uz Europsku uniju, kao i stavove o temama političke ili društvene prirode.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }
